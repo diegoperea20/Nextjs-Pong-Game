@@ -19,7 +19,7 @@ const Home = () => {
         <h3>player 🟩: ⬆️ ⬇️</h3>
         <div className="project-github">
       <p>This project is in </p>
-      <Link href="https://github.com/diegoperea20">
+      <Link href="https://github.com/diegoperea20/Nextjs-Pong-Game">
         <img width="96" height="96" src="https://img.icons8.com/fluency/96/github.png" alt="github"/>
       </Link>
     </div>
